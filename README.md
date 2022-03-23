@@ -4,6 +4,8 @@
 
 Getting Started with SwiftUI
 
+--------------------------------------------------------------------------
+
 ### Учебный проект в рамках курса The App Brewery Complete App Development.
 
 Первое знакомство с SwiftUI
